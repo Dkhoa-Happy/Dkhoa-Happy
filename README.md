@@ -1,4 +1,4 @@
-### Hi, I'm [Your Name]!
+### Hi, I'm Dang Khoa!
 
 🧑‍💻 Aspiring Front-End Developer sharing my journey and learnings in web development<br/>
 🎓 Currently studying [Front-End Development]https://fap.fpt.edu.vn/) at FPT University<br/>
