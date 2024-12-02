@@ -4,9 +4,7 @@
 
 <p align="left"><img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3picGd6anBkeDE5OWd1NjYyMHlhbG0xOHZheTF0dW56d2o3emMzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp"/></p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=dkhoa-happy&label=Profile%20views&color=0e75b6&style=flat" alt="dkhoa-happy" /> 
-</p>
+
 
 ---
 
