@@ -17,6 +17,14 @@
 
 ---
 
+### 🌐 **My Portfolio**
+<div align="center">
+  <a href="https://3d-portfoliodkhoa.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%23FF7139.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge" />
+  </a>
+  <p style="font-size: 1.2rem; font-weight: bold;">✨ Explore my latest projects and creative work! ✨</p>
+</div>
+
 ### 🔗 Connect with Me:
 <p align="left">
   <a href="https://www.facebook.com/dkhoahappy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" /></a>
