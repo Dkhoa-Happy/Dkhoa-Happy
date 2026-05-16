@@ -19,7 +19,7 @@
 
 ### 🌐 **My Portfolio**
 <div align="center">
-  <a href="https://dkhoa-portfolio.vercel.app" target="_blank">
+  <a href="https://macos-portfolio-kappa.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%23FF7139.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge" />
   </a>
   <p style="font-size: 1.2rem; font-weight: bold;">✨ Explore my latest projects and creative work! ✨</p>
@@ -40,16 +40,6 @@
 
 ---
 
-### 📊 My GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dkhoa-happy&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkhoa-happy&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
----
 
 ### 🎯 Fun Quote:
 > *"Code is like humor. When you have to explain it, it’s bad."*  
